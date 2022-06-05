@@ -28,3 +28,6 @@ Deposit crypto, save points on firebase, withdraw crypto, delete points on fireb
 
 By default the connection to metamask is allowed in the 97 network, if you want to change it you must go to metamask.dart and change operatingchain to desired. You must change this if you have a contract or token in another chain
 
+--
+
+I do not provide any type of support when referring to open source but in case of errors in my free time I can solve them
